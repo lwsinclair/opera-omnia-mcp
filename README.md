@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/triptych-opera-omnia-mcp-badge.png)](https://mseep.ai/app/triptych-opera-omnia-mcp)
+
 # Opera Omnia MCP Server
 
 An MCP server that provides access to the rich collection of JSON datasets from the [Opera Omnia](https://github.com/triptych/opera-omnia) project, a comprehensive library of creative content for games, storytelling, and bot development.
